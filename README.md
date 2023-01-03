@@ -8,7 +8,7 @@
   * Self-driving cars
   * Sensor fusion
 # Setting up environment to run on cpu  
-  ## To set up the environment for this project,follow the following steps  
+  ## To set up the environment for this project,follow the steps  
   ### 1.Create Environment (Conda recommended)
     #Tensorflow CPU
     conda env create -f conda-cpu.yml
